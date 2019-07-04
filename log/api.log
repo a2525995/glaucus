@@ -1,0 +1,2 @@
+ERROR basehttp.py:154 2019-04-19 14:49:44,382 basehttp          log_message() 16792 5888 "GET /sign_up/ HTTP/1.1" 500 59
+ERROR basehttp.py:154 2019-04-19 14:49:48,798 basehttp          log_message() 16792 5888 "GET /sign_up/ HTTP/1.1" 500 59
